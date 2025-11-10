@@ -56,7 +56,8 @@ if __name__ == "__main__":
     print("File downloaded successfully.")
 ```
 ## OUTPUT
-![Uploading Screenshot (11).png…]()
+
+<img width="1920" height="1200" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/b4f76e15-7dfd-4df2-ac4a-a1adf8217dec" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
